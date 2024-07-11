@@ -1,6 +1,6 @@
-export Z1=
-export Z2=
-export Z3=
+export Z1=us-west1-b
+export Z2=us-east1
+export Z3=us-west1-b
 export R1="${Z1%-*}"
 export R2="${Z2%-*}"
 export R3="${Z3%-*}"
